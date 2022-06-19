@@ -1,0 +1,33 @@
+.nav{
+    opacity:0.9;
+}
+.titles{
+color: #1f5f9b;
+font-style: oblique;
+}
+   
+.h3{
+    text-align: center;
+    margin-top: 25%;
+    font-weight: 100;
+    font-weight: bold;
+    
+}
+.body{
+    background-color: rgb(250, 239, 239);
+}
+.button{
+    background-color: black;
+    color: rgb(109, 219, 35);
+    border-radius: 80%;
+    height: 50%;
+}
+.div{
+    margin-top: 5%;
+}
+.banner{
+    background-image: url("../images/mantenimiento.png");
+    background-size: cover;
+    background-position: top center;
+    padding: 5% 10% 60% 10%;
+}
